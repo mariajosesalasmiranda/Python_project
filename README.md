@@ -1,12 +1,13 @@
 # Learning Git and GitHub with Sentiment Analysis
-
 This repository serves as a learning ground for Git and GitHub while also featuring a sentiment analysis Python file.
 
 ## Purpose
-The primary objective of this repository is to provide a hands-on experience with Git and GitHub for beginners. Additionally, it includes a sentiment analysis Python file to demonstrate a practical application within this learning context.
+The primary objective of this repository is to provide a hands-on experience with Git and GitHub for beginners. Additionally, it includes a sentiment analysis Python
+file to demonstrate a practical application within this learning context.
 
 ## Sentiment Analysis
-The sentiment analysis Python file (replace_with_filename.py) showcases the basics of sentiment analysis using Python. It could serve as a starting point for understanding natural language processing and sentiment analysis techniques.
+The sentiment analysis Python file (sentiment_analysis.py) showcases the basics of sentiment analysis using Python. It could serve as a starting point for
+understanding natural language processing and sentiment analysis techniques.
 
 ### Usage
 1. Ensure you have Python installed.
