@@ -1,31 +1,26 @@
 # Learning Git and GitHub with Sentiment Analysis
-This repository serves as a learning ground for Git and GitHub while also featuring a sentiment analysis Python file.
 
-## Purpose
+## Overview
 The primary objective of this repository is to provide a hands-on experience with Git and GitHub for beginners. Additionally, it includes a sentiment analysis Python
 file to demonstrate a practical application within this learning context.
 
-## Sentiment Analysis
-The sentiment analysis Python file (sentiment_analysis.py) showcases the basics of sentiment analysis using Python. It could serve as a starting point for
-understanding natural language processing and sentiment analysis techniques.
+## Getting started
+### Contents
+- **sentiment_analysis.py**:The sentiment analysis Python file showcases the basics of sentiment analysis using Python. It could serve as a starting point for understanding natural language processing and sentiment analysis techniques.
+
+### Prerequisites
+- Python >= 3.10. Download it from [python.org](https://www.python.org/downloads/).
 
 ### Usage
 1. Ensure you have Python installed.
 2. Open the sentiment analysis Python file in your preferred Python environment.
 3. Follow the instructions or comments within the file to explore sentiment analysis.
 
-## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this project according to the terms specified in the license.
-
-## Contribution
-Contributions are welcome! If you'd like to suggest improvements, provide feedback, or add new features, please feel free to submit issues or pull requests.
-
-## Resources
-For more information on Git and GitHub, consider checking out the following resources:
-- [GitHub Guides](https://guides.github.com/)
-- [Pro Git Book](https://git-scm.com/book/en/v2)
+## License 
+This project is licensed under the MIT License. It is intended for educational purposes and personal use. For any commercial use or redistribution, please refer to the terms mentioned in the license file.
 
 ---
 
-**Note:** This repository is primarily for educational purposes and aims to facilitate learning about version control and basic Python-based sentiment analysis.
+> [!Note]
+>  This repository is primarily for educational purposes
 
